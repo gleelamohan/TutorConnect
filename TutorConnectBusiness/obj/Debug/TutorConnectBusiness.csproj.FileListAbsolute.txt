@@ -1,0 +1,17 @@
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectBusiness\bin\Debug\TutorConnectBusiness.dll
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectBusiness\bin\Debug\TutorConnectBusiness.pdb
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectBusiness\bin\Debug\Newtonsoft.Json.dll
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectBusiness\bin\Debug\System.Net.Http.Formatting.dll
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectBusiness\bin\Debug\System.Web.Http.dll
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectBusiness\bin\Debug\TutorConnectDataContracts.dll
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectBusiness\bin\Debug\TutorConnectDataContracts.pdb
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectBusiness\bin\Debug\Newtonsoft.Json.xml
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectBusiness\bin\Debug\System.Net.Http.Formatting.xml
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectBusiness\bin\Debug\System.Web.Http.xml
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectBusiness\obj\Debug\TutorConnectBusiness.csprojResolveAssemblyReference.cache
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectBusiness\obj\Debug\TutorConnectBusiness.dll
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectBusiness\obj\Debug\TutorConnectBusiness.pdb
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectBusiness\bin\Debug\TutorConnectData.dll
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectBusiness\bin\Debug\TutorConnectData.pdb
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectBusiness\bin\Debug\TutorConnectBusinessContracts.dll
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectBusiness\bin\Debug\TutorConnectBusinessContracts.pdb

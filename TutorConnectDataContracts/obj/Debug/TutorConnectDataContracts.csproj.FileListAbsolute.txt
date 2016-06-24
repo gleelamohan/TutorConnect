@@ -1,0 +1,11 @@
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectDataContracts\bin\Debug\TutorConnectDataContracts.dll
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectDataContracts\bin\Debug\TutorConnectDataContracts.pdb
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectDataContracts\bin\Debug\Newtonsoft.Json.dll
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectDataContracts\bin\Debug\System.Net.Http.Formatting.dll
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectDataContracts\bin\Debug\System.Web.Http.dll
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectDataContracts\bin\Debug\Newtonsoft.Json.xml
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectDataContracts\bin\Debug\System.Net.Http.Formatting.xml
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectDataContracts\bin\Debug\System.Web.Http.xml
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectDataContracts\obj\Debug\TutorConnectDataContracts.csprojResolveAssemblyReference.cache
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectDataContracts\obj\Debug\TutorConnectDataContracts.dll
+E:\Users\Leela\Documents\Visual Studio 2013\Projects\TutorConnect\TutorConnectDataContracts\obj\Debug\TutorConnectDataContracts.pdb

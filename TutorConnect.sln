@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorConnect", "TutorConnect\TutorConnect.csproj", "{71E18B8A-7FB2-4BEB-9630-B79BBCD231F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{537D5D8B-54B4-4303-A37D-08507E3B7DC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application_Business", "Application_Business", "{4064905D-3FC8-4D88-8629-64E05D345ABD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application_Data", "Application_Data", "{92311325-D138-4360-89AF-545A27B791AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application_Utils", "Application_Utils", "{5A0F67A7-0686-4E2F-8D92-141A53213CEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application_Framework", "Application_Framework", "{214A3A52-CB76-4996-A620-854D4623632F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorConnectBusiness", "TutorConnectBusiness\TutorConnectBusiness.csproj", "{C1F9B706-858C-4321-9F84-230DBF4D87A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorConnectBusinessContracts", "TutorConnectBusinessContracts\TutorConnectBusinessContracts.csproj", "{1BE490A0-EB73-4831-8DCF-6DCEA9B782D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorConnectData", "TutorConnectData\TutorConnectData.csproj", "{6D76675A-DE4C-41F3-8B6A-963B0C9429D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorConnectDataContracts", "TutorConnectDataContracts\TutorConnectDataContracts.csproj", "{38D8C0EE-0D79-4C89-88D0-2B82EEFE0341}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71E18B8A-7FB2-4BEB-9630-B79BBCD231F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E18B8A-7FB2-4BEB-9630-B79BBCD231F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E18B8A-7FB2-4BEB-9630-B79BBCD231F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E18B8A-7FB2-4BEB-9630-B79BBCD231F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F9B706-858C-4321-9F84-230DBF4D87A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F9B706-858C-4321-9F84-230DBF4D87A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F9B706-858C-4321-9F84-230DBF4D87A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F9B706-858C-4321-9F84-230DBF4D87A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BE490A0-EB73-4831-8DCF-6DCEA9B782D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE490A0-EB73-4831-8DCF-6DCEA9B782D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE490A0-EB73-4831-8DCF-6DCEA9B782D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE490A0-EB73-4831-8DCF-6DCEA9B782D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D76675A-DE4C-41F3-8B6A-963B0C9429D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D76675A-DE4C-41F3-8B6A-963B0C9429D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D76675A-DE4C-41F3-8B6A-963B0C9429D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D76675A-DE4C-41F3-8B6A-963B0C9429D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38D8C0EE-0D79-4C89-88D0-2B82EEFE0341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D8C0EE-0D79-4C89-88D0-2B82EEFE0341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D8C0EE-0D79-4C89-88D0-2B82EEFE0341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D8C0EE-0D79-4C89-88D0-2B82EEFE0341}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{71E18B8A-7FB2-4BEB-9630-B79BBCD231F1} = {537D5D8B-54B4-4303-A37D-08507E3B7DC9}
+		{C1F9B706-858C-4321-9F84-230DBF4D87A3} = {4064905D-3FC8-4D88-8629-64E05D345ABD}
+		{1BE490A0-EB73-4831-8DCF-6DCEA9B782D2} = {4064905D-3FC8-4D88-8629-64E05D345ABD}
+		{6D76675A-DE4C-41F3-8B6A-963B0C9429D1} = {92311325-D138-4360-89AF-545A27B791AF}
+		{38D8C0EE-0D79-4C89-88D0-2B82EEFE0341} = {92311325-D138-4360-89AF-545A27B791AF}
+	EndGlobalSection
+EndGlobal
